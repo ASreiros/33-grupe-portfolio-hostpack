@@ -23,6 +23,19 @@ Design: https://www.themelooks.biz/demo/hostpack/html/preview/index.html
 -   CSS import
 -   JS import-export
 
+## Parts done by Anton Sokolkin
+
+-Homepage
+--Header
+--Navigation bar(including mobile part)
+--Interactive map(hover over dots)
+--Carousel
+-FAQ page (whole)
+-404 page (whole)
+-Login page (whole)
+-Hosting page(header and navigation)
+
+
 ## Authors
 
 Aleksas Neniškis: [Github](https://github.com/aneniskis)
