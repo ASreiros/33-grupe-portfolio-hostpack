@@ -26,9 +26,9 @@ Design: https://www.themelooks.biz/demo/hostpack/html/preview/index.html
 ## Parts done by Anton Sokolkin
 
 
-- Homepage(Header)
-- Homepage(Navigation bar, including mobile part)
-- Homepage(Interactive map)
+- Homepage (Header)
+- Homepage (Navigation bar, including mobile part)
+- Homepage (Interactive map)
 - Homepage (Carousel)
 - FAQ page 
 - 404 page 
